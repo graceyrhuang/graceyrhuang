@@ -1,4 +1,4 @@
-### Hi, I'm Grace :wave:
+### Hi, I'm Grace :wave: 👩🏻‍💻
 
 
 - 🔭 I’m currently working on Python
